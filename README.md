@@ -1,5 +1,5 @@
 
-# lo - Iterate over slices, maps, channels...
+# lo - Iterate over slices, maps, channels....
 
 [![tag](https://img.shields.io/github/tag/samber/lo.svg)](https://github.com/samber/lo/releases)
 ![Go Version](https://img.shields.io/badge/Go-%3E%3D%201.18-%23007d9c)
